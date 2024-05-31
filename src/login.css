@@ -1,0 +1,115 @@
+*{
+    margin: 0px;
+}
+
+/* .container{
+    width: 100vw;
+    height: 100vh;
+    display: flex;
+    align-items: center;
+    margin: 0px;
+} */
+header{
+    text-align: center;  
+    margin-top: 90px;
+}
+.eng{
+    color: rgb(112, 104, 104);
+}
+
+section{
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+}
+
+a{
+    text-decoration: none;
+}
+
+.facebook{
+    /* border: 1px solid skyblue; */
+    background-color: blue;
+    margin-top: 25px;
+    color: white;
+    width: 250px;
+    height: 25px;
+    text-align: center;
+    padding: 8px;
+    border-radius: 8px;
+    margin: 10px;
+}
+
+.logo img{
+    width: 200px;
+    margin-top: 10px;
+}
+
+#name{
+    margin-top: 8px;
+    width: 260px;
+    height: 25px;
+    border-radius: 5px;
+    margin: 10px;
+    border: 1px solid  rgb(112, 104, 104);
+}
+
+#password{
+    width: 260px;
+    height: 25px;
+    border-radius: 5px;
+    margin: 10px;
+    border: 1px solid  rgb(112, 104, 104);
+}
+
+.forget{
+    color: blue;
+    margin: 10px;
+}
+
+.login{
+    background-color: blue;
+    color: rgb(233, 217, 217);
+    width: 270px;
+    height: 35px;
+    text-align: center;
+    padding: 6px;
+    border-radius: 8px;
+    margin: 10px;
+    border: none;
+}
+
+/* pending */
+.signup{
+    color: blue;
+    margin-top: 10px;
+}
+
+footer{
+    position: fixed;
+    background-color: rgb(201, 192, 192);
+    width: 100vw;
+}
+
+footer{
+    bottom: 0%;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+}
+
+
+/* footer{
+    position: fixed;
+    background-color: rgb(201, 192, 192);
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    bottom: 0px;
+} */
+
+.meta{
+    width: 100px;
+
+}
+ 

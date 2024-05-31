@@ -1,0 +1,467 @@
+*{
+    margin:0px;
+}
+
+.header-area{
+    position: relative;
+    /* background-color:aqua; */
+    width: 100vw;
+    height: 50px;
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    /* padding: 10px ; */
+}
+
+.logo img{
+    width: 100px;
+    height: 30px;
+    margin-top: 10px;
+    margin-left: 10px;
+}
+
+.fa-heart{
+    margin-left: 170px;
+}
+
+.fa-facebook-messenger{
+    margin-right: 15px;
+}
+
+
+.circle1{
+    width: 75px;
+    height: 75px;
+    /* background-color: greenyellow; */
+    border-radius: 50px;
+    margin-top: 15px;
+    margin: 10px;
+    background-image:url('./story-pic/my-story1.jpg');
+    background-size: cover;
+}
+
+.circle2{
+    width: 75px;
+    height: 75px;
+    /* background-color: greenyellow; */
+    border-radius: 50px;
+    margin-top: 15px;
+    margin: 10px;
+    background-image:url('./story-pic/story-2.jpg');
+    background-size: cover;
+}
+
+.circle3{
+    width: 75px;
+    height: 75px;
+    /* background-color: greenyellow; */
+    border-radius: 50px;
+    margin-top: 15px;
+    margin: 10px;
+    background-image:url('./story-pic/story-3.jpg');
+    background-size: cover;
+}
+
+.circle4{
+    width: 75px;
+    height: 75px;
+    /* background-color: greenyellow; */
+    border-radius: 50px;
+    margin-top: 15px;
+    margin: 10px;
+    background-image:url('./story-pic/story-4.webp');
+    background-size: cover;
+}
+
+
+/* story bottom text align */
+#story1{
+    margin-top: 80px;
+}
+#story2{
+    margin-top: 80px;
+    margin-left: 20px;
+}
+#story3{
+    margin-top: 80px;
+    margin-left: 15px;
+}
+#story4{
+    margin-top: 80px;
+    margin-left: 25px;
+}
+
+
+.storyarea{
+    display: flex;
+}
+
+
+
+/* post image reels page */
+.profile{
+    display: flex;
+    align-items: center;
+
+}
+
+/* other insta  profile id 1*/
+.profilemy{
+    width:35px;
+    height: 35px;
+    /* background-color: greenyellow; */
+    border-radius: 50px;
+    /* border: 1px solid black; */
+    margin-top: 30px;
+    margin-left: 13px;
+    background-image: url('./profile-pic/profile1.jpg');
+    background-size: cover;
+}
+/* instagram id name */
+.instaid-1{
+    margin-top: 25px;
+    margin-left: 13px;
+}
+/* 3 dots edit area */
+#fa-ellipsis-vertical-1{
+    margin-top: 28px;
+    margin-left: 250px;
+}
+
+
+
+
+.box{
+    width: 355px;
+    height: 650px;
+    border: 1px solid black;
+    margin: 8px;
+}
+
+
+
+
+
+/* profile box 1 */
+#box1{
+    background-image:url('./other-insta-post/pic1.jpg');
+    background-size: cover;
+}
+
+.img-icons{
+    display: flex;
+    /* justify-content: space-between; */
+}
+
+#heart{
+    margin-left: 15px;
+}
+#comment{
+    margin-left: 15px;
+}
+#share{
+    margin-left: 15px;
+}
+#bookmark{
+    margin-left: 250px;
+}
+
+
+/* other insta  profile id 2 */
+.nature{
+    width:35px;
+    height: 35px;
+    /* background-color: greenyellow; */
+    border-radius: 50px;
+    /* border: 1px solid black; */
+    margin-top: 30px;
+    margin-left: 13px;
+    background-image: url('./profile-pic/profile2.jpg');
+    background-size: cover;
+}
+/* instagram id name */
+.instaid-2{
+    margin-top: 25px;
+    margin-left: 13px;
+}
+/* 3 dots edit area */
+#fa-ellipsis-vertical-2{
+    margin-top: 28px;
+    margin-left: 197px;
+}
+#box2{
+    background-image: url('./other-insta-post/pic2.jpg');
+    background-size: cover;
+    margin-top: 10px;
+}
+
+
+/* other insta  profile id 3 */
+.sun{
+    width:35px;
+    height: 35px;
+    /* background-color: greenyellow; */
+    border-radius: 50px;
+    /* border: 1px solid black; */
+    margin-top: 30px;
+    margin-left: 13px;
+    background-image: url('./profile-pic/profile3.jpeg');
+    background-size: cover;
+}
+/* instagram id name */
+.instaid-3{
+    margin-top: 25px;
+    margin-left: 13px;
+}
+/* 3 dots edit area */
+#fa-ellipsis-vertical-3{
+    margin-top: 28px;
+    margin-left: 248px;
+}
+
+#box3{
+    background-image: url('./other-insta-post/pic3.jpg');
+    background-size: cover;
+}
+
+
+/* other insta  profile id 4 */
+.mobile{
+    width:35px;
+    height: 35px;
+    /* background-color: greenyellow; */
+    border-radius: 50px;
+    /* border: 1px solid black; */
+    margin-top: 30px;
+    margin-left: 13px;
+    background-image: url('./profile-pic/profile4.jpg');
+    background-size: cover;
+}
+/* instagram id name */
+.instaid-4{
+    margin-top: 25px;
+    margin-left: 13px;
+}
+/* 3 dots edit area */
+#fa-ellipsis-vertical-4{
+    margin-top: 28px;
+    margin-left: 210px;
+}
+
+#box4{
+    background-image: url('./other-insta-post/pic4.jpg');
+    background-size: cover;
+}
+
+
+/* other insta  profile id 5 */
+.malavika{
+    width:35px;
+    height: 35px;
+    /* background-color: greenyellow; */
+    border-radius: 50px;
+    /* border: 1px solid black; */
+    margin-top: 30px;
+    margin-left: 13px;
+    background-image: url('./profile-pic/profile5.jpg');
+    background-size: cover;
+}
+
+/* instagram id name */
+.instaid-5{
+    margin-top: 25px;
+    margin-left: 13px;
+}
+/* 3 dots edit area */
+#fa-ellipsis-vertical-5{
+    margin-top: 28px;
+    margin-left: 185px;
+}
+
+#box5{
+    background-image: url('./other-insta-post/pic5.jpg');
+    background-size: cover;
+}
+
+
+/* other insta  profile id 6 */
+.betta{
+    width:35px;
+    height: 35px;
+    /* background-color: greenyellow; */
+    border-radius: 50px;
+    /* border: 1px solid black; */
+    margin-top: 30px;
+    margin-left: 13px;
+    background-image: url('./profile-pic/profile6.png');
+    background-size: cover;
+}
+
+/* instagram id name */
+.instaid-6{
+    margin-top: 25px;
+    margin-left: 13px;
+}
+/* 3 dots edit area */
+#fa-ellipsis-vertical-6{
+    margin-top: 28px;
+    margin-left: 232px;
+}
+
+#box6{
+    background-image: url('./other-insta-post/pic6.jpg');
+    background-size: cover;
+}
+
+
+/* other insta  profile id 7 */
+.fullmoon{
+    width:35px;
+    height: 35px;
+    /* background-color: greenyellow; */
+    border-radius: 50px;
+    /* border: 1px solid black; */
+    margin-top: 30px;
+    margin-left: 13px;
+    background-image: url('./profile-pic/profile7.jpg');
+    background-size: cover;
+}
+
+/* instagram id name */
+.instaid-7{
+    margin-top: 25px;
+    margin-left: 13px;
+}
+/* 3 dots edit area */
+#fa-ellipsis-vertical-7{
+    margin-top: 28px;
+    margin-left: 220px;
+}
+
+#box7{
+    background-image: url('./other-insta-post/pic7.png');
+    background-size: cover;
+}
+
+
+/* other insta  profile id 8 */
+.flower{
+    width:35px;
+    height: 35px;
+    /* background-color: greenyellow; */
+    border-radius: 50px;
+    /* border: 1px solid black; */
+    margin-top: 30px;
+    margin-left: 13px;
+    background-image: url('./profile-pic/profile8.jpg');
+    background-size: cover;
+}
+
+/* instagram id name */
+.instaid-8{
+    margin-top: 25px;
+    margin-left: 13px;
+}
+/* 3 dots edit area */
+#fa-ellipsis-vertical-8{
+    margin-top: 28px;
+    margin-left: 247px;
+}
+
+#box8{
+    background-image: url('./other-insta-post/pic8.jpg');
+    background-size: cover;
+}
+
+
+
+/* other insta  profile id 9 */
+.rose{
+    width:35px;
+    height: 35px;
+    /* background-color: greenyellow; */
+    border-radius: 50px;
+    /* border: 1px solid black; */
+    margin-top: 30px;
+    margin-left: 13px;
+    background-image: url('./profile-pic/profile9.jpg');
+    background-size: cover;
+}
+
+/* instagram id name */
+.instaid-9{
+    margin-top: 25px;
+    margin-left: 13px;
+}
+/* 3 dots edit area */
+#fa-ellipsis-vertical-9{
+    margin-top: 28px;
+    margin-left: 222px;
+}
+
+#box9{
+    background-image: url('./other-insta-post/pic9.jpg');
+    background-size: cover;
+}
+
+
+
+/* other insta  profile id 10 */
+.car{
+    width:35px;
+    height: 35px;
+    /* background-color: greenyellow; */
+    border-radius: 50px;
+    /* border: 1px solid black; */
+    margin-top: 30px;
+    margin-left: 13px;
+    background-image: url('./profile-pic/profile10.jpg');
+    background-size: cover;
+}
+
+/* instagram id name */
+.instaid-10{
+    margin-top: 25px;
+    margin-left: 13px;
+}
+/* 3 dots edit area */
+#fa-ellipsis-vertical-10{
+    margin-top: 28px;
+    margin-left: 230px;
+}
+
+#box10{
+    background-image: url('./other-insta-post/pic10.jpg');
+    background-size: cover;
+}
+
+
+
+
+footer{
+    position: fixed;
+    bottom: 0px;
+}
+.footer-area{
+    
+    background-color:white;
+    width: 100vw;
+    display: flex;
+    justify-content: space-around;
+    align-items: center;
+    padding: 10px;
+}
+
+.smallcircle{
+    width: 30px;
+    height: 30px;
+    /* background-color: greenyellow; */
+    border-radius: 30px;
+    background-image: url('./profile-pic/kutty-profile.jpg');
+    background-size: cover;
+}
+
+
+article{
+    margin-bottom: 60px;
+}
